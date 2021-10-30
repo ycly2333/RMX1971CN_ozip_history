@@ -20,7 +20,7 @@
 [A.10](A.10.md)     | 9 | [下载直链](https://download.c.realme.com/osupdate/RMX1971_11_OTA_0100_all_CSvO3xokVQUP.ozip)
 [A.09](A.09.md)     | 9 | [下载直链](https://download.c.realme.com/osupdate/RMX1971_11_OTA_0090_all_1F4P3l5RtHc3.ozip)
 [A.07](A.07.md)     | 9 | [下载直链](https://download.c.realme.com/osupdate/RMX1971_11_OTA_0070_all_WjxRJittzizl.ozip)
-[A.07](A.07.md)     | 9 | [下载直链](https://download.c.realme.com/osupdate/RMX1971_11_OTA_0060_all_ZN8R2aFZ9e5G.ozip)
+[A.06](A.06.md)     | 9 | [下载直链](https://download.c.realme.com/osupdate/RMX1971_11_OTA_0060_all_ZN8R2aFZ9e5G.ozip)
 
 ## 联系方式
 ![coolapk_ycly](coolapk.png)
