@@ -23,6 +23,7 @@
 [A.06](A.06.md)     | 9 | [下载直链](https://download.c.realme.com/osupdate/RMX1971_11_OTA_0060_all_ZN8R2aFZ9e5G.ozip)
 
 ## QQ群
-![qq-group](qrcode_RMX1971.png)
+![qq](realme_ycly.png)
+
 ## 联系方式
 ![coolapk_ycly](coolapk.png)
